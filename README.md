@@ -9,3 +9,6 @@ mas eu já estou indo para área de softwares para que eu possa programar sem co
 
 # UMAS IMAGEM DE EXEMPLOS DESSE SITE
 
+![Screenshot_1](https://user-images.githubusercontent.com/75184968/123522242-816e7080-d692-11eb-9fb4-bd9a1f2d6574.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/75184968/123522246-89c6ab80-d692-11eb-8143-3574c11a7de3.png)
